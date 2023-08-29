@@ -1,4 +1,4 @@
-# Algoritmos e Programação - Unidade 1
+# Algoritmos e Programação
 
 ## Fundamentos da Programação de Computadores - parte 1
 
